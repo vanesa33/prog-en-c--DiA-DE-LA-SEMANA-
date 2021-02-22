@@ -1,0 +1,12 @@
+C:\Users\Ivanesa\source\repos\diadelasemana\diadelasemana\obj\Debug\netcoreapp3.1\diadelasemana.AssemblyInfoInputs.cache
+C:\Users\Ivanesa\source\repos\diadelasemana\diadelasemana\obj\Debug\netcoreapp3.1\diadelasemana.AssemblyInfo.cs
+C:\Users\Ivanesa\source\repos\diadelasemana\diadelasemana\obj\Debug\netcoreapp3.1\diadelasemana.csproj.CoreCompileInputs.cache
+C:\Users\Ivanesa\source\repos\diadelasemana\diadelasemana\bin\Debug\netcoreapp3.1\diadelasemana.exe
+C:\Users\Ivanesa\source\repos\diadelasemana\diadelasemana\bin\Debug\netcoreapp3.1\diadelasemana.deps.json
+C:\Users\Ivanesa\source\repos\diadelasemana\diadelasemana\bin\Debug\netcoreapp3.1\diadelasemana.runtimeconfig.json
+C:\Users\Ivanesa\source\repos\diadelasemana\diadelasemana\bin\Debug\netcoreapp3.1\diadelasemana.runtimeconfig.dev.json
+C:\Users\Ivanesa\source\repos\diadelasemana\diadelasemana\bin\Debug\netcoreapp3.1\diadelasemana.dll
+C:\Users\Ivanesa\source\repos\diadelasemana\diadelasemana\bin\Debug\netcoreapp3.1\diadelasemana.pdb
+C:\Users\Ivanesa\source\repos\diadelasemana\diadelasemana\obj\Debug\netcoreapp3.1\diadelasemana.dll
+C:\Users\Ivanesa\source\repos\diadelasemana\diadelasemana\obj\Debug\netcoreapp3.1\diadelasemana.pdb
+C:\Users\Ivanesa\source\repos\diadelasemana\diadelasemana\obj\Debug\netcoreapp3.1\diadelasemana.genruntimeconfig.cache
